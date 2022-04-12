@@ -1,4 +1,4 @@
-import Layout from "./component/layout/layout";
+import Layout from "./components/Layout/";
 import './App.css';
 
 
