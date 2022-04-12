@@ -1,2 +1,2 @@
-# store
-Uma loja completa
+# Store
+A complete store
